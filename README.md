@@ -1,2 +1,3 @@
 # git_test
-Hello world
+Hello world!
+Hello Odin!
